@@ -1,0 +1,201 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/edit_border_focused.xml
+SHA1-Digest: tuxjPbyZMIXtfCOpGX5snwZhs0k=
+
+Name: res/drawable-hdpi/tgl_on_l.9.png
+SHA1-Digest: Xa69rfTBfG9rS90DW1C6R6TP4s0=
+
+Name: assets/fonts/font1.ttf
+SHA1-Digest: HVMDjdsgEOXBgIRLr2JIYdbU5V8=
+
+Name: res/layout/recovery_item.xml
+SHA1-Digest: DOP1M2F/oA7aSFz81VuNQtZR87k=
+
+Name: res/drawable-mdpi/note_pro_ico.png
+SHA1-Digest: ssfC0HvmWCucXBognvudiozHy6g=
+
+Name: res/menu/mnu_note_list.xml
+SHA1-Digest: x07gQglFHMpJVIdGtdfqPMJZSko=
+
+Name: res/xml/alarmnotepro.xml
+SHA1-Digest: r9rSqiMGZf4r9+5lZHnXOfNKG0s=
+
+Name: res/drawable-hdpi/tgl_off_l.9.png
+SHA1-Digest: tiZdDutfPJTlnAtg99hohMhrVNg=
+
+Name: res/drawable-hdpi/btn_pressed_l.9.png
+SHA1-Digest: OLUvwKl53mDqO11StREeldHn88k=
+
+Name: res/drawable-hdpi/btn_normal_l.9.png
+SHA1-Digest: CwAHv1r4rcLKzgxcDdh3oNDrB+U=
+
+Name: res/drawable-hdpi/note_pro_ico.png
+SHA1-Digest: ssfC0HvmWCucXBognvudiozHy6g=
+
+Name: res/layout/note_settings.xml
+SHA1-Digest: tWVQ2dDW2WZH3GL4dfnagBYrp5A=
+
+Name: assets/fonts/font2.ttf
+SHA1-Digest: 83SZfl+f9gHjCaf86Yl527xJ6cM=
+
+Name: res/drawable-hdpi/slider_snap_l.png
+SHA1-Digest: ZBzIMX4dViqcdRaFsDxxtP3SFko=
+
+Name: res/layout/oncall_list.xml
+SHA1-Digest: erb/AgOs/KJ+QutXa3BclqvzTbU=
+
+Name: res/layout/record_item.xml
+SHA1-Digest: M3ecjr84pJyWbQztkVgL7fsDyGA=
+
+Name: res/layout/alarm_note_pager.xml
+SHA1-Digest: +fOVOH8K7u1sSQfv17sxQcDsz2A=
+
+Name: res/layout/alarm_about.xml
+SHA1-Digest: ERKruuRrSh+lymhWJVX3zjytHDA=
+
+Name: res/drawable-xhdpi/note_pro_ico.png
+SHA1-Digest: AEFnn+tU4r29fMtKMuxjiC+na34=
+
+Name: res/drawable/edit_cursor.xml
+SHA1-Digest: HmBvxhSTQW4zZTETh5wdwOy36gc=
+
+Name: res/layout/fragment.xml
+SHA1-Digest: M+D2lz7CX8pfNijDuiVNFKS6Y+M=
+
+Name: res/drawable/dropdown_theme.xml
+SHA1-Digest: 0vZzBBgepB5hTsY6COCVDHALvvk=
+
+Name: res/drawable-hdpi/ckb_unchecked_l.png
+SHA1-Digest: BCqsnO0lA+MR873caL6f0LYvu/w=
+
+Name: res/layout/alarm_recovery.xml
+SHA1-Digest: JrpWca8VjrWvY1bn5sqElK46ydE=
+
+Name: res/layout/main.xml
+SHA1-Digest: mpg0hvb4w3WQfn/+5kW2vkfJRco=
+
+Name: res/layout/alarm_paid_dlg.xml
+SHA1-Digest: iy74Yt66CCY4VlKdt4+2vgJAO80=
+
+Name: res/drawable-hdpi/an_notify.png
+SHA1-Digest: RNZGjnmNYlYry/c4ad1b6EVIijQ=
+
+Name: res/drawable-hdpi/sticky_paper_ico.png
+SHA1-Digest: fjVUmqJDWUY0DooHWi34VChR6Aw=
+
+Name: res/drawable-hdpi/sticky_blue_ico.png
+SHA1-Digest: oLgdT5+YKUwh6NkEwzXHWyYIj7E=
+
+Name: res/anim/logo_alpha.xml
+SHA1-Digest: 1umj0nHU4VDBj01F/XoJItOTScE=
+
+Name: res/drawable/edittext_theme.xml
+SHA1-Digest: 6yrVr5pdYA8+qe9LH///nlJHJ4U=
+
+Name: res/drawable/button_theme.xml
+SHA1-Digest: bhDcCO0xbG1Kr6FXaz0ClHi2tuk=
+
+Name: res/drawable-hdpi/btn_disabled_l.9.png
+SHA1-Digest: IfSmTeJvflE6dxEDTQ3KT/bP9Ds=
+
+Name: res/drawable-hdpi/sticky_line_paper_ico.png
+SHA1-Digest: W1cQAHlJhS5rQwCBZOtmIt46wXc=
+
+Name: res/layout/oncall_configure.xml
+SHA1-Digest: qAYjISAlFd9XBFd5b8T5gSXVt8M=
+
+Name: res/drawable-hdpi/sticky_pergament_ico.png
+SHA1-Digest: pMwz/o0n+EmojTM6fEIQKhq/7ik=
+
+Name: res/layout/alarm_shop.xml
+SHA1-Digest: V+UsmKfnHOMkpRVNruxQjzu9UDQ=
+
+Name: res/drawable-ldpi/note_pro_ico.png
+SHA1-Digest: ssfC0HvmWCucXBognvudiozHy6g=
+
+Name: res/drawable/label_style.xml
+SHA1-Digest: JvOpwelkxl2pmDsUr2+Fz8aKEuE=
+
+Name: res/drawable-hdpi/slonasoft_white.png
+SHA1-Digest: 0u1iDsaG/Vx7jSY/fQiu/aR6b20=
+
+Name: resources.arsc
+SHA1-Digest: ycxH6rdp9uqA0HFXluUkTOWRduM=
+
+Name: res/layout/alarm_note_notif.xml
+SHA1-Digest: AR5uI4dcvqwJkY+dsQunB0TSutI=
+
+Name: res/drawable/toggle_theme.xml
+SHA1-Digest: q+T/sdjLZ1T97FyrzrjeIEHhEUw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +OoBCn761UZjrdTiVqlM9Og+VA4=
+
+Name: res/drawable-hdpi/sticky_yellow_ico.png
+SHA1-Digest: 5LJx33X/AyLc7uTK3EXbIvetVWM=
+
+Name: res/drawable-hdpi/_drop_normal.9.png
+SHA1-Digest: IJDR8mTsda20ySMFC3IG7hW5pdE=
+
+Name: res/layout/alarm_info.xml
+SHA1-Digest: mxGq9DuqORxcsulYhv6QrMgC1ow=
+
+Name: res/drawable-hdpi/cellsdraw_paper_.jpg
+SHA1-Digest: logrE8eyidbyZbXhhjagoEsUa/0=
+
+Name: res/layout/setalarm.xml
+SHA1-Digest: 9xRTJ26pYKpiS67fRsz33n0rjsw=
+
+Name: res/layout/alarm_conf.xml
+SHA1-Digest: MWl2oC7vg7So0ZmB8r4l4LZGXmU=
+
+Name: res/drawable-hdpi/_drop_closed.9.png
+SHA1-Digest: u2zwA+JQkAM9j1W3/lSUzS293I4=
+
+Name: res/drawable-hdpi/radio_uncheck_l.png
+SHA1-Digest: Cjga1g7jmnnjUfP/d/3jE6UNJw8=
+
+Name: classes.dex
+SHA1-Digest: TSDt0Fsyy+1WBS0RizbMNXE232I=
+
+Name: res/drawable-hdpi/sticky_green_ico.png
+SHA1-Digest: GAfLDTb2bFufbjjVZoUDcsKALRc=
+
+Name: res/drawable-hdpi/ckb_checked_l.png
+SHA1-Digest: TnKAQ4+GRB3maxYHS1JT5vUI1f8=
+
+Name: res/drawable/check_box.xml
+SHA1-Digest: sfGm/srBL+uAqYhroX4JbbvK53s=
+
+Name: res/drawable-hdpi/btn_pressed.9.png
+SHA1-Digest: K9zFcvajrtyRBZ7aALV+A2OO6Lg=
+
+Name: res/drawable/edit_border_unfocused.xml
+SHA1-Digest: Q4xUcuu3Lr9/+7ZxqvBVyzM8Yck=
+
+Name: res/layout/alarm_vote.xml
+SHA1-Digest: fIpSSiG9hDKSJ5EwicCjNbPJwlY=
+
+Name: res/drawable-hdpi/label_l.9.png
+SHA1-Digest: pi4jPCp0Vyq9J0xYTtISdC7nDag=
+
+Name: res/drawable/radiobtn_theme.xml
+SHA1-Digest: dOqVqcTaB2UmqHafQe20N1qB+8c=
+
+Name: res/drawable-hdpi/radio_checked_l.png
+SHA1-Digest: 3UO58Pl2mW0fML5uAxX8QC8+rm4=
+
+Name: res/drawable/checkbox_theme.xml
+SHA1-Digest: y+AI2HYaMlZ6soDIDXEq2tFEeM0=
+
+Name: res/drawable-hdpi/sticky_pink_ico.png
+SHA1-Digest: zeSops0a7Npae9hk/gcsLutahqY=
+
+Name: res/drawable-xxhdpi/alrm_pro_ico.png
+SHA1-Digest: HAvgXLLFpbdk9jC28Qjn8st7lWg=
+
+Name: res/drawable-hdpi/btn_normal.9.png
+SHA1-Digest: VFWuBmYgY1j/FeJFtIomeziQDeA=
+
